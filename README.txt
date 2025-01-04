@@ -1,58 +1,91 @@
+# Data Analysis Portfolio
 
-Data Analysis Portfolio Website
-Welcome to my Data Analysis Portfolio Website! This repository contains the source code and configuration files for my personal portfolio, designed to showcase my skills and projects in data analysis. Although the website template was sourced from the internet, the content and projects are uniquely my own, demonstrating my proficiency with various data analysis tools and technologies.
+Welcome to my Data Analysis Portfolio! This repository contains the source code for my personal portfolio website, showcasing my expertise in data analysis. While the website template is sourced from the internet, all projects and analyses are my original work.
 
-Overview
-This website highlights my work with:
+## 🔍 Overview
 
-SQL: Querying and managing databases.
-Tableau: Creating interactive and insightful visualizations.
-Power BI: Building dashboards and reports.
-Pandas: Data manipulation and analysis in Python.
-Python: General-purpose programming for data tasks.
-Features
-Project Showcases: Detailed descriptions of individual projects with insights into the techniques and tools used.
-Interactive Dashboards: Visualizations created with Tableau and Power BI.
-Data Analysis Scripts: Examples of data processing and analysis using Pandas and Python.
-Getting Started
-To view the website locally or deploy it on your own server, follow the instructions below.
+I specialize in various data analysis tools and technologies:
+- SQL for database querying and management
+- Tableau for interactive visualizations
+- Power BI for comprehensive dashboards
+- Python & Pandas for data manipulation and analysis
 
-Prerequisites
-A modern web browser (e.g., Chrome, Firefox, Safari)
-Basic understanding of HTML/CSS if you plan to make modifications
-Installation
-Clone the Repository
+## 📊 Featured Projects
 
-bash
-Copy code
+### Data Cleaning & Analysis
+1. **Company Layoff Data Analysis**
+   - SQL-based data cleaning and transformation
+   - Comprehensive data exploration using SQL Server
+   
+   - https://github.com/bhar007-neel/DATA-Analyst-Bootcamp/blob/master/Data%20cleaning%20project.sql
+
+### Visualization Projects
+1. **Tableau Dashboards Collection**
+   - Employee salary analysis
+   - Video games sales trends
+   - Airbnb forecast visualizations
+   - https://public.tableau.com/app/profile/neelmani.bhardwaj/viz/AirbnbFullProject_17236406812570/Airbnbvisualdashboard
+
+2. **Power BI Dashboard**
+   - Data Professional Survey Breakdown
+   - Interactive reporting and analysis
+   -https://github.com/bhar007-neel/DATA-Analyst-Bootcamp/blob/master/Power%20BI%20project(Data%20Professional%20Survey%20Breakdown).pbix
+
+### Python & Pandas Projects
+1. **US Companies Revenue Analysis**
+   - Web scraping implementation
+   - Analysis of largest US companies by revenue
+   - https://github.com/bhar007-neel/Data-Analysis-in-Python-and-Pandas-using-Jupyter-notebooks/blob/master/Scrapping%20Data%20From%20real%20Website%20%2BPandas.ipynb
+
+2. **Customer Call List Cleanup**
+   - Data cleaning using Pandas
+   - Jupyter Notebook implementation
+   - https://github.com/bhar007-neel/Data-Analysis-in-Python-and-Pandas-using-Jupyter-notebooks/blob/master/Cleaning%20Data%20in%20Python.ipynb
+
+3. **World Population Analysis**
+   - Historical population trends analysis
+   - Data exploration across decades
+   - https://github.com/bhar007-neel/Data-Analysis-in-Python-and-Pandas-using-Jupyter-notebooks/blob/master/Exploratory%20Dats%20Analysis%20in%20Pandas.ipynb
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Modern web browser (Chrome, Firefox, Safari)
+- Basic HTML/CSS knowledge (for modifications)
+
+### Installation
+
+1. Clone the repository:
+```bash
 git clone https://github.com/bhar007-neel/Data-Analysis-Portfolio---Neelmani.git
-Navigate to the Project Directory
+```
 
-bash
-Copy code
+2. Navigate to project directory:
+```bash
 cd data-analysis-portfolio
-Open the Website
+```
 
-Simply open the index.html file in your preferred web browser to view the website locally.
+3. Open `index.html` in your browser
 
-Deployment
-To deploy this portfolio website online, you can use platforms such as GitHub Pages, Netlify, or Vercel. Follow their respective documentation for deployment instructions.
+## 🌐 Live Website
+Visit the live portfolio at: [https://bhar007-neel.github.io/Data-Analysis-Portfolio---Neelmani/](https://bhar007-neel.github.io/Data-Analysis-Portfolio---Neelmani/)
 
-Projects
-SQL Projects
-Project Name: Description of the SQL project and its outcomes.
-Tableau Projects
-Project Name: Description of the Tableau project, including key visualizations and insights.
-Power BI Projects
-Project Name: Description of the Power BI dashboard, with an emphasis on its interactive elements.
-Pandas & Python Projects
-Project Name: Overview of the data analysis tasks performed using Pandas and Python, including sample code snippets.
-Contributing
-Feel free to fork this repository and make your own modifications. If you have any suggestions or improvements, please submit a pull request or open an issue.
+## 💻 Technology Stack
+- CSS (46.4%)
+- SCSS (40.7%)
+- JavaScript (9.2%)
+- HTML (3.7%)
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+## 📫 Contact Information
+- **Address:** Apt-05, 40 Northview Road, Ottawa, ON
+- **Phone:** 613-879-4980
+- **Email:** neelmanibhardwaj001@gmail.com
 
-Contact
-For any questions or inquiries, please reach out to me at neelmanibhardwaj001@gmail.com.
+## 📝 License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+## 🤝 Contributing
+Feel free to fork this repository and make your own modifications. For suggestions or improvements, please submit a pull request or open an issue.
+
+---
+© 2024 Neelmani Bhardwaj | Design: HTML5 UP
